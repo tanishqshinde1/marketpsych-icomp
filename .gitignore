@@ -1,3 +1,40 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Data and outputs
+data/raw/
+data/processed/
+outputs/
+ingestion_outputs*/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
 __pycache__/
 *.py[cod]
 .DS_Store
