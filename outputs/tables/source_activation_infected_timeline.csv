@@ -1,0 +1,4 @@
+source_type,first_activation_week,infected_threshold_quantile_75,first_infected_proxy_week_quantile,infected_threshold_absolute,first_infected_proxy_week_absolute
+earnings_call_transcripts,2023-10-23,0.8169351481184702,2024-02-05,0.65,2024-01-08
+general_news,2024-01-01,0.758181885167061,2024-02-19,0.65,2024-01-29
+specialist_media,2023-10-16,0.9835845084418167,2024-01-29,0.65,2024-01-01
